@@ -1,0 +1,4 @@
+G:\Technology\Programming\Codes\AlgorithmProblems\SingleDigitProduct\bin\Debug\SingleDigitProduct.exe
+G:\Technology\Programming\Codes\AlgorithmProblems\SingleDigitProduct\bin\Debug\SingleDigitProduct.pdb
+G:\Technology\Programming\Codes\AlgorithmProblems\SingleDigitProduct\obj\x86\Debug\SingleDigitProduct.exe
+G:\Technology\Programming\Codes\AlgorithmProblems\SingleDigitProduct\obj\x86\Debug\SingleDigitProduct.pdb
